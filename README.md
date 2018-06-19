@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'judgment' github: 'hazi/judgment'
+gem 'judgment', github: 'hazi/judgment'
 ```
 
 And then execute:
